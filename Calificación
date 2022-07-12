@@ -1,0 +1,6 @@
+Tarea funciones #2
+
+Debe existir una función única para el factorial y otra que calcula la sumatoria de factoriales.
+La función debe devolver el número aleatorio y no imprimirlo. Se imprime desde el main.
+
+Calificación: 2.5/3.0
